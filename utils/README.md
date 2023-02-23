@@ -1,0 +1,3 @@
+loss中
+scheduler.py:记录了学习率下降的方法
+visualizer.py:记录了用visdom可视化分割图片和loss的方法
